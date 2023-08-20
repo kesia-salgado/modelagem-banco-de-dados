@@ -2,8 +2,10 @@
 Exercício de aula UnisãoMiguel 1º período em GTI
 
 Resolução de 5 questões solictadas pela Profª Sônia Oliveira na disciplina Banco de dados.
+
 Atividade BD 3- UniSãoMiguel
 Professora Sônia Oliveira
+
 1- Elaborar um diagrama E-R para uma seguradora de automóveis
 Entidades: Cliente, Apólice, Carro e Acidentes.
 Requisitos:
