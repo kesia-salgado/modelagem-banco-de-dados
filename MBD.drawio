@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-20T14:40:19.996Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="VRKyUGPRxCbUpfqTUtmn" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-20T14:40:44.045Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="NHxwQ8Obyo0kYYnbSnzl" version="21.6.8" type="github">
   <diagram name="Página-1" id="PoFF8F3EbRDm4t548dB7">
     <mxGraphModel dx="2789" dy="1753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -221,7 +221,7 @@
           <mxGeometry width="450" height="330" as="geometry" />
         </mxCell>
         <mxCell id="JeJ_NOJ5juSKPU0iS3CP-294" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-960" y="180" width="1290" height="900" as="geometry" />
+          <mxGeometry x="-1120" y="170" width="1290" height="900" as="geometry" />
         </mxCell>
         <mxCell id="JeJ_NOJ5juSKPU0iS3CP-295" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;entidades e atributos:&amp;nbsp;&lt;br&gt;Peças: Número, Peso e Cor; &lt;br&gt;Depósitos: Número e Endereço;&lt;br&gt;Fornecedor: Número e Endereço;&lt;br&gt;Projeto: Número e Orçamento;&lt;br&gt;Funcionário:&amp;nbsp;Número, Salário e Telefone;&lt;br&gt;Departamento: Número e Setor.&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JeJ_NOJ5juSKPU0iS3CP-294">
           <mxGeometry x="1010" y="280" width="280" height="130" as="geometry" />
